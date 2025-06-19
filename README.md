@@ -29,45 +29,42 @@ To identify the key factors influencing employee attrition in an organization an
 
 # Key Findings:
 
-**Customer Analysis:**
-Top 10 Customers by Total Spending (Customer IDs):
-649087, 266635, 590301, 590260, 055183, 388796, 957063, 711672, 199840, 352490
+### 1. Customer Analysis:
+1. **Top 10 Customers by Total Spending (Customer IDs):**  
+   649087, 266635, 590301, 590260, 055183, 388796, 957063, 711672, 199840, 352490
+2. **Average Spending per Customer:** ₹261  
+3. **Total Unique Customers:** 1,000  
+4. **Repeated Customers (made more than one transaction):** 4,621  
 
-Average Spending per Customer: ₹261
+---
 
-Total Unique Customers: 1,000
+### 2. Transaction Analysis:
+5. **Average Transaction Amount:** ₹248  
+6. **Transaction Amount Range:**  
+   - **Maximum:** ₹896  
+   - **Minimum:** ₹8  
 
-Repeated Customers (made more than one transaction): 4,621
+---
 
-**Transaction Analysis:**
-Average Transaction Amount: ₹248
+### 3. Discount Analysis:
+7. **Total Discounted Transactions:** 99,982  
+8. **Average Discount Applied per Transaction:** ₹10  
+9. **Number of Stores Offering the Highest Discounts:** 32  
 
-Transaction Amount Range:
+---
 
-Maximum: ₹896
+### 4. Payment Method Insights:
+10. **Most Frequently Used Payment Method:** PayPal  
+11. **Payment Method with Highest Average Spend:** Debit Card  
+12. **Payment Method with Highest Average Discount:** Cash  
 
-Minimum: ₹8
+---
 
-**Discount Analysis:**
-Total Discounted Transactions: 99,982
+### 5. Store Performance:
+13. **Top Performing Store (by Total Sales):** USS Zimmerman — ₹766 Total Sales  
+14. **Best Performing Product Category:** Clothing 
 
-Average Discount Applied per Transaction: ₹10
-
-Number of Stores Offering the Highest Discounts: 32
-
-**Payment Method Insights:**
-Most Frequently Used Payment Method: PayPal
-
-Payment Method with Highest Average Spend: Debit Card
-
-Payment Method with Highest Average Discount: Cash
-
-**Store Performance:**
-Top Performing Store (by Total Sales): USS Zimmerman — ₹766 Total Sales
-
-Best Performing Product Category: Clothing
-
-**🚀 Conclusion**
+### 🚀 Conclusion
 - High Customer Retention: Significant number of repeat customers (4,621) suggests a loyal customer base.
 - Payment Behavior: PayPal is the most preferred method.
 - Debit Card users spend the most on average.
