@@ -1,5 +1,5 @@
 # Project-3  (EDA)
-# TOP SALARIED JOB TITLES
+# Retail Store Analysis
 - **Author**: Nishika Gupta  
 - **Date**: 17 June 2025  
 - **Tools Used**: SQL
